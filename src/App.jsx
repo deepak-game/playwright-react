@@ -3,6 +3,7 @@ function App() {
     <div>
       <h1>React app using vite!</h1>
       <h2>Playwright test script!</h2>
+      <h3>Adding homepage!</h3>
     </div>
   );
 }
